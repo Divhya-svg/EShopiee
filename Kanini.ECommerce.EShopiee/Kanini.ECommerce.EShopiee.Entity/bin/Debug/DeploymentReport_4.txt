@@ -1,0 +1,55 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Delivery] (Table)
+       [dbo].[Feedback] (Table)
+       [dbo].[OrderDetails] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[PaymentDetails] (Table)
+       [dbo].[PaymentType] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[UserAddress] (Table)
+       [dbo].[UserRoles] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[WishList] (Table)
+       [dbo].[FK_Delivery_Product] (Foreign Key)
+       [dbo].[FK_Delivery_OrderDetails] (Foreign Key)
+       [dbo].[FK_Feedback_Product] (Foreign Key)
+       [dbo].[FK_Feedback_Users] (Foreign Key)
+       [dbo].[FK_OrderDetails_Product] (Foreign Key)
+       [dbo].[FK_Orders_OrderDetails] (Foreign Key)
+       [dbo].[FK_Orders_Users] (Foreign Key)
+       [dbo].[FK_Orders_PaymentDetails] (Foreign Key)
+       [dbo].[FK_PaymentDetails_PaymentMode] (Foreign Key)
+       [dbo].[FK_UserAddress_Users] (Foreign Key)
+       [dbo].[FK_Users_UserRoles] (Foreign Key)
+       [dbo].[FK_WishList_Users] (Foreign Key)
+       [dbo].[FK_WishList_Product] (Foreign Key)
+       [dbo].[DeleteProduct] (Procedure)
+       [dbo].[InsertFeedback] (Procedure)
+       [dbo].[InsertIntoWishList] (Procedure)
+       [dbo].[Login] (Procedure)
+       [dbo].[MakeOrder] (Procedure)
+       [dbo].[MakePayment] (Procedure)
+       [dbo].[RemoveAProductFromWishList] (Procedure)
+       [dbo].[RemoveUser] (Procedure)
+       [dbo].[SearchProduct] (Procedure)
+       [dbo].[UpdateDeliveryDetails] (Procedure)
+       [dbo].[UpdateNewPassword] (Procedure)
+       [dbo].[UpdateProduct] (Procedure)
+       [dbo].[ViewDeliveryDetails] (Procedure)
+       [dbo].[ViewOrderDetails] (Procedure)
+       [dbo].[ViewProductById] (Procedure)
+       [dbo].[ViewProducts] (Procedure)
+       [dbo].[ViewUserDetails] (Procedure)
+
+** Supporting actions

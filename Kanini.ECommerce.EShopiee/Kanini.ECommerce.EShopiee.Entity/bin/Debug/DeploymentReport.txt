@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Delivery] (Table)
+       [dbo].[DeliveryDetails] (Table)
+       [dbo].[Feedback] (Table)
+       [dbo].[Order] (Table)
+       [dbo].[OrderDetails] (Table)
+       [dbo].[Payment] (Table)
+       [dbo].[PaymentType] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[UserAddress] (Table)
+       [dbo].[UserRoles] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[WishList] (Table)
+       [dbo].[FK_Delivery_Product] (Foreign Key)
+       [dbo].[FK_Delivery_Order] (Foreign Key)
+       [dbo].[FK_Feedback_Product] (Foreign Key)
+       [dbo].[FK_Feedback_Users] (Foreign Key)
+       [dbo].[FK_Order_Product] (Foreign Key)
+       [dbo].[FK_Order_Users] (Foreign Key)
+       [dbo].[FK_OrderDetails_Order] (Foreign Key)
+       [dbo].[FK_OrderDetails_Payment] (Foreign Key)
+       [dbo].[FK_Payment_PaymentType] (Foreign Key)
+       [dbo].[FK_UserAddress_Users] (Foreign Key)
+       [dbo].[FK_Users_UserRoles] (Foreign Key)
+       [dbo].[FK_WishList_Users] (Foreign Key)
+       [dbo].[FK_WishList_Product] (Foreign Key)
+
+** Supporting actions
