@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Kanini.ECommerce.EShopiee.BL/1.0.0": {
+        "dependencies": {
+          "Kanini.ECommerce.EShopiee.Model": "1.0.0"
+        },
+        "runtime": {
+          "Kanini.ECommerce.EShopiee.BL.dll": {}
+        }
+      },
+      "Kanini.ECommerce.EShopiee.Model/1.0.0": {
+        "runtime": {
+          "Kanini.ECommerce.EShopiee.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kanini.ECommerce.EShopiee.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kanini.ECommerce.EShopiee.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

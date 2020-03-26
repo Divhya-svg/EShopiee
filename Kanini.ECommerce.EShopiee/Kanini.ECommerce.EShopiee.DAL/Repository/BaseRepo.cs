@@ -51,6 +51,11 @@ namespace Kanini.ECommerce.EShopiee.DAL.Repository
 
 
         }
+        public object GetScalarValue(string commandtext, CommandType commandtype, SqlParameter[] parameters = null)
+        {
+            SqlCommand command = Common(commandtext, commandtype, parameters);
+            return command.ExecuteScalar();
+        }
         public int Insert(string commandtext, CommandType commandtype, SqlParameter[] parameters, out int lastId)
         {
             lastId = 0;

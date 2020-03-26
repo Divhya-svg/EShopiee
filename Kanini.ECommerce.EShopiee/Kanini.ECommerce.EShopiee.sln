@@ -7,23 +7,23 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Kanini.ECommerce.EShopiee.E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{1429F33A-F3E7-4506-A0DA-43C5ECA13B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanini.ECommerce.EShopiee.Model", "Kanini.ECommerce.EShopiee.Model\Kanini.ECommerce.EShopiee.Model.csproj", "{A1BDA34F-6784-403E-87AD-40F6094860AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.Model", "Kanini.ECommerce.EShopiee.Model\Kanini.ECommerce.EShopiee.Model.csproj", "{A1BDA34F-6784-403E-87AD-40F6094860AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{B78F2418-C0AF-4F61-A472-F51F31CE9243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanini.ECommerce.EShopiee.DAL", "Kanini.ECommerce.EShopiee.DAL\Kanini.ECommerce.EShopiee.DAL.csproj", "{6B4A43B1-D2BD-4E49-8BE8-C8BA3BCEE36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.DAL", "Kanini.ECommerce.EShopiee.DAL\Kanini.ECommerce.EShopiee.DAL.csproj", "{6B4A43B1-D2BD-4E49-8BE8-C8BA3BCEE36B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{DCF92658-48F7-468A-8DCB-ACA061D509AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{C155ECA6-39C6-4352-9010-1506E4CF1EAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanini.ECommerce.EShopiee.BL", "Kanini.ECommerce.EShopiee.BL\Kanini.ECommerce.EShopiee.BL.csproj", "{886AD193-93F3-42B5-8784-C8D717111C55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.BL", "Kanini.ECommerce.EShopiee.BL\Kanini.ECommerce.EShopiee.BL.csproj", "{886AD193-93F3-42B5-8784-C8D717111C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanini.ECommerce.EShopiee.UnitTest", "Kanini.ECommerce.EShopiee.UnitTest\Kanini.ECommerce.EShopiee.UnitTest.csproj", "{376D66CA-E150-4893-B9D2-084A68F9CD3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.UnitTest", "Kanini.ECommerce.EShopiee.UnitTest\Kanini.ECommerce.EShopiee.UnitTest.csproj", "{376D66CA-E150-4893-B9D2-084A68F9CD3D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{47D5E2D6-91A7-47EC-8A2F-BCE0A50FAEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanini.ECommerce.EShopiee.WebApi", "Kanini.ECommerce.EShopiee.WebApi\Kanini.ECommerce.EShopiee.WebApi.csproj", "{31812BF4-654B-4CDF-9929-2F07DE5DA053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.WebApi", "Kanini.ECommerce.EShopiee.WebApi\Kanini.ECommerce.EShopiee.WebApi.csproj", "{31812BF4-654B-4CDF-9929-2F07DE5DA053}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{B579BE7C-B1AA-4728-B9A1-E8958A4C68B4}"
 EndProject

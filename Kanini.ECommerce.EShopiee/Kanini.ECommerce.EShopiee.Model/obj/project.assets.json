@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Divhya.bharathy\\source\\repos\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\Kanini.ECommerce.EShopiee.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Divhya.bharathy\\Documents\\GitHub\\EShopiee\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\Kanini.ECommerce.EShopiee.Model.csproj",
       "projectName": "Kanini.ECommerce.EShopiee.Model",
-      "projectPath": "C:\\Users\\Divhya.bharathy\\source\\repos\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\Kanini.ECommerce.EShopiee.Model.csproj",
+      "projectPath": "C:\\Users\\Divhya.bharathy\\Documents\\GitHub\\EShopiee\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\Kanini.ECommerce.EShopiee.Model.csproj",
       "packagesPath": "C:\\Users\\Divhya.bharathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Divhya.bharathy\\source\\repos\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\obj\\",
+      "outputPath": "C:\\Users\\Divhya.bharathy\\Documents\\GitHub\\EShopiee\\Kanini.ECommerce.EShopiee\\Kanini.ECommerce.EShopiee.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
