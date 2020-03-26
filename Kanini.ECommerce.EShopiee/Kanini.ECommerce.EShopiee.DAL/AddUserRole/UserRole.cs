@@ -7,7 +7,7 @@ using Kanini.ECommerce.EShopiee.Model;
 
 namespace Kanini.ECommerce.EShopiee.DAL.AddUserRole
 {
-    public class UserRole
+    public class UserRole:IUserRole
     {
         IBaseRepo baseRepo;
         public UserRole(IBaseRepo repo)

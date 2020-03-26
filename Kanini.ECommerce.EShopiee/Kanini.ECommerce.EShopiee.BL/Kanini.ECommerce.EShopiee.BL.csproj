@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Kanini.ECommerce.EShopiee.Model\Kanini.ECommerce.EShopiee.Model.csproj" />
+  </ItemGroup>
+
 </Project>

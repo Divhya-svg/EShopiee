@@ -6,6 +6,7 @@ namespace Kanini.ECommerce.EShopiee.Model
 {
     public class UserRoles
     {
+        public int RoleId { get; set; }
         public string RoleDescription { get; set; }
         public int RoleNumber { get; set; }
         public DateTime CreatedDate { get; set; }

@@ -5,3 +5,15 @@ C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.AssemblyInfoInputs.cache
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.AssemblyInfo.cs
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Model.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Model.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.csprojAssemblyReference.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.AssemblyInfoInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.AssemblyInfo.cs
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.deps.json
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Model.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.csproj.CopyComplete
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.DAL\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.DAL.pdb

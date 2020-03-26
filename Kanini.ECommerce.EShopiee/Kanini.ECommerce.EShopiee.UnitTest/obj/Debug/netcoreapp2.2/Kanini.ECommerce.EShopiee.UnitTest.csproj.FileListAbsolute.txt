@@ -1,0 +1,14 @@
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.deps.json
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.runtimeconfig.json
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.runtimeconfig.dev.json
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.csprojAssemblyReference.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.AssemblyInfo.cs
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.UnitTest\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.UnitTest.pdb

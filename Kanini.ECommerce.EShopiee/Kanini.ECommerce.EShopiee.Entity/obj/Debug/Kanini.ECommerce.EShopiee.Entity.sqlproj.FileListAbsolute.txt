@@ -3,3 +3,9 @@ C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\bin\Debug\Kanini.ECommerce.EShopiee.Entity.pdb
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\obj\Debug\Kanini.ECommerce.EShopiee.Entity.dll
 C:\Users\Divhya.bharathy\source\repos\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\obj\Debug\Kanini.ECommerce.EShopiee.Entity.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\bin\Debug\Kanini.ECommerce.EShopiee.Entity.dacpac
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\bin\Debug\Kanini.ECommerce.EShopiee.Entity.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\bin\Debug\Kanini.ECommerce.EShopiee.Entity.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\obj\Debug\Kanini.ECommerce.EShopiee.Entity.sqlprojAssemblyReference.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\obj\Debug\Kanini.ECommerce.EShopiee.Entity.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Entity\obj\Debug\Kanini.ECommerce.EShopiee.Entity.pdb
