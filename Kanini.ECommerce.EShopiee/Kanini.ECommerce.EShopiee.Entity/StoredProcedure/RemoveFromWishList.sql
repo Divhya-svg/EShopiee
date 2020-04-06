@@ -2,6 +2,6 @@
 	@UserId int,
 	@ProdcutId int
 AS
-	DELETE from [dbo].[WishList] where UserId=@UserId and 
+	DELETE from [dbo].[WishList] where 
 	ProductId=@ProdcutId
 RETURN 

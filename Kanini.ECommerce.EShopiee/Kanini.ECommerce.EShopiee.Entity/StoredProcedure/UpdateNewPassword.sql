@@ -5,6 +5,6 @@
 	@UserId int
 AS
 	UPDATE [dbo].[Users] set Password=@NewPassword
-	where UserId=@UserId and EmailId=@EmailId OR 
-	MobileNumber=@MobileNumber
-RETURN 0
+	where  EmailId=@EmailId 
+
+RETURN 

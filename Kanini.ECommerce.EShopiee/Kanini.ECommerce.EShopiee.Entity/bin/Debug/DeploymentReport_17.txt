@@ -1,0 +1,59 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Delivery] (Table)
+       [dbo].[Feedback] (Table)
+       [dbo].[OrderDetails] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[PaymentDetails] (Table)
+       [dbo].[PaymentType] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[UserAddress] (Table)
+       [dbo].[UserRoles] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[WishList] (Table)
+       [dbo].[FK_Delivery_Product] (Foreign Key)
+       [dbo].[FK_Delivery_OrderDetails] (Foreign Key)
+       [dbo].[FK_Feedback_Product] (Foreign Key)
+       [dbo].[FK_Feedback_Users] (Foreign Key)
+       [dbo].[FK_OrderDetails_Product] (Foreign Key)
+       [dbo].[FK_Orders_OrderDetails] (Foreign Key)
+       [dbo].[FK_Orders_Users] (Foreign Key)
+       [dbo].[FK_Orders_PaymentDetails] (Foreign Key)
+       [dbo].[FK_PaymentDetails_PaymentMode] (Foreign Key)
+       [dbo].[FK_UserAddress_Users] (Foreign Key)
+       [dbo].[FK_Users_UserRoles] (Foreign Key)
+       [dbo].[FK_WishList_Users] (Foreign Key)
+       [dbo].[FK_WishList_Product] (Foreign Key)
+       [dbo].[AddProduct] (Procedure)
+       [dbo].[DeleteProduct] (Procedure)
+       [dbo].[DeleteRoleIdFromUserRoles] (Procedure)
+       [dbo].[DeleteRoleIdFromUsers] (Procedure)
+       [dbo].[DeleteUserIdFromUserAddress] (Procedure)
+       [dbo].[GetByPaymentTypeId] (Procedure)
+       [dbo].[InsertFeedback] (Procedure)
+       [dbo].[InsertIntoWishList] (Procedure)
+       [dbo].[InsertPayments] (Procedure)
+       [dbo].[InsertPaymentType] (Procedure)
+       [dbo].[InsertUserRoles] (Procedure)
+       [dbo].[Register] (Procedure)
+       [dbo].[RemoveFromWishList] (Procedure)
+       [dbo].[SearchProduct] (Procedure)
+       [dbo].[UpdateNewPassword] (Procedure)
+       [dbo].[UpdateProduct] (Procedure)
+       [dbo].[UserLogin] (Procedure)
+       [dbo].[ViewProductById] (Procedure)
+       [dbo].[ViewProducts] (Procedure)
+       [dbo].[ViewUsers] (Procedure)
+       [dbo].[ViewWishList] (Procedure)
+
+** Supporting actions

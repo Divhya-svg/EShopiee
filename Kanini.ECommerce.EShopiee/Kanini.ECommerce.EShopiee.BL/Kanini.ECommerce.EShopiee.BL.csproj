@@ -5,7 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kanini.ECommerce.EShopiee.DAL\Kanini.ECommerce.EShopiee.DAL.csproj" />
     <ProjectReference Include="..\Kanini.ECommerce.EShopiee.Model\Kanini.ECommerce.EShopiee.Model.csproj" />
+    <ProjectReference Include="..\Kanini.ECommerce.EShopiee.Services\Kanini.ECommerce.EShopiee.Services.csproj" />
   </ItemGroup>
 
 </Project>
