@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.W
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{B579BE7C-B1AA-4728-B9A1-E8958A4C68B4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanini.ECommerce.EShopiee.Services", "Kanini.ECommerce.EShopiee.Services\Kanini.ECommerce.EShopiee.Services.csproj", "{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C1CBE31A-BF36-4EC7-B1A9-99754AC84D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,10 @@ Global
 		{31812BF4-654B-4CDF-9929-2F07DE5DA053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31812BF4-654B-4CDF-9929-2F07DE5DA053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31812BF4-654B-4CDF-9929-2F07DE5DA053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +78,7 @@ Global
 		{886AD193-93F3-42B5-8784-C8D717111C55} = {C155ECA6-39C6-4352-9010-1506E4CF1EAB}
 		{376D66CA-E150-4893-B9D2-084A68F9CD3D} = {47D5E2D6-91A7-47EC-8A2F-BCE0A50FAEFF}
 		{31812BF4-654B-4CDF-9929-2F07DE5DA053} = {B579BE7C-B1AA-4728-B9A1-E8958A4C68B4}
+		{0BCA9CFD-5A62-4614-B36A-E3D31978C0B9} = {C1CBE31A-BF36-4EC7-B1A9-99754AC84D08}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89D80D35-73B8-4F76-BFA5-55AC352DCDF2}

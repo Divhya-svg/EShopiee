@@ -1,6 +1,6 @@
 ﻿CREATE PROCEDURE [dbo].[SearchProduct]
-	@ProductName varchar(30)
+	@Name varchar(30)
 AS
-	SELECT * from [dbo].[Product] where [Name ] like '%' 
-	+@ProductName+ '%'
+	SELECT * from [dbo].[Product] where Product.[Name] like '%' 
+	+ @Name + '%'
 RETURN 

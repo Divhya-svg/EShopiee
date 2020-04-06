@@ -3,8 +3,21 @@
 	@MobileNumber varchar(15),
 	@Password varchar(20)
 AS
-	SELECT * from [dbo].[Users] where EmailId=@EmailId
-	AND Password=@Password OR
-	MobileNumber=@MobileNumber
-	AND Password=@Password
-RETURN 0
+Declare @Select varchar(4000)
+
+Set @Select='SELECT * from [dbo].[Users] where '
+
+IF Len(@EmailId)!=0 
+	BEGIN
+		SET @Select = @Select + ' Emailid=''' +  @EmailId + ''''
+	END
+IF LEN(@MobileNumber)!=0
+BEGIN
+	SET @Select = @Select + ' MobileNumber=''' + @MobileNumber +''''
+END
+	
+	
+	SET @Select= @Select + ' AND  Password= ''' + @Password + ''''
+	
+EXEC(@Select)
+	

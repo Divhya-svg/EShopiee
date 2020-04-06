@@ -92,6 +92,9 @@
     <Build Include="StoredProcedure\InsertPaymentType.sql" />
     <Build Include="StoredProcedure\GetByPaymentTypeId.sql" />
     <Build Include="StoredProcedure\InsertPayments.sql" />
+    <Build Include="StoredProcedure\GetUserRoles.sql" />
+    <Build Include="StoredProcedure\UpdateUserRole.sql" />
+    <Build Include="StoredProcedure\ViewOrderList.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Kanini.ECommerce.EShopiee.Entity.refactorlog" />

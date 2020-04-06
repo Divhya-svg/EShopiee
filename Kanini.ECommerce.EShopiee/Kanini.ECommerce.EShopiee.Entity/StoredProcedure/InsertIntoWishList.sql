@@ -1,7 +1,7 @@
 ﻿CREATE PROCEDURE [dbo].[InsertIntoWishList]
 	@UserId int,
 	@ProductId int,
-	@DateofCartAdd int
+	@DateofCartAdd datetime
 AS
 	INSERT into [dbo].[WishList] values(
 	@UserId,

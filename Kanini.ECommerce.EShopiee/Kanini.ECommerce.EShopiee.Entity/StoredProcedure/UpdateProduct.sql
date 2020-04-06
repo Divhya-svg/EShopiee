@@ -1,4 +1,5 @@
 ﻿CREATE PROCEDURE [dbo].[UpdateProduct]
+	@ProductId int,
 	@Name varchar(30),
 	@Rating decimal(2,1),
 	@ManufactureDate date,
@@ -11,7 +12,7 @@
 	@NoOfStock int
 AS
 	update [dbo].[Product] set 
-	[Name ]=@Name,
+	[Name]=@Name,
 	[Rating]=@Rating,
 	[ManufactureDate]=@ManufactureDate,
 	[CartDescription]=@CartDescription,
@@ -21,4 +22,6 @@ AS
 	[DealPrice]=@DealPrice,
 	[SavePrice]=@SavePrice,
 	[NoOfStock]=@NoOfStock
+
+	where [ProductId]=@ProductId
 RETURN 

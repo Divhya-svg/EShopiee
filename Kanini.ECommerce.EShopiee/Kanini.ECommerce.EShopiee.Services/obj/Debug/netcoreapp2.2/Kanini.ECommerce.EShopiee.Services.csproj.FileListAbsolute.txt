@@ -1,0 +1,12 @@
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.deps.json
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Model.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\bin\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Model.pdb
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.csprojAssemblyReference.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.csproj.CoreCompileInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.AssemblyInfoInputs.cache
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.AssemblyInfo.cs
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.csproj.CopyComplete
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.dll
+C:\Users\Divhya.bharathy\Documents\GitHub\EShopiee\Kanini.ECommerce.EShopiee\Kanini.ECommerce.EShopiee.Services\obj\Debug\netcoreapp2.2\Kanini.ECommerce.EShopiee.Services.pdb
